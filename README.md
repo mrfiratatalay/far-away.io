@@ -8,9 +8,7 @@ React holds significant importance in the world of web development, and in this 
 🎯 Project Goal: In this project, I aim to learn how to effectively manage state variables in React, derive state, and communicate between child and parent components. By advancing your fundamental React knowledge, you'll gain the ability to successfully manage more complex applications.
 
 🛠️ Technologies Used: React, JavaScript
-📁 GitHub: [GitHub Repo Link]
-
-🎥 Project Introduction Video: [Video Link]
+🎥 Project Introduction Video: https://www.youtube.com/watch?v=dWbUbdajXhk
 
 This project could be an excellent resource for beginners in React and help enhance your existing knowledge further. I hope you like my project, and I look forward to sharing my experiences! 🌟
 
